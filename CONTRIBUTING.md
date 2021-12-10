@@ -2,7 +2,7 @@
 # How to build project
 1. Clone this project;
 1. Go to root of project;
-1. Start `sbt` from the shell which will download automatically the IntelliJ Community SDK with sources;
+1. Start [`sbt`](https://www.scala-sbt.org/index.html) from the shell which will download automatically the IntelliJ Community SDK with sources;
 1. Install/enable the following plugins in IntelliJ: Plugin Devkit, Grammar-Kit and PsiViewer;
 1. Import this project as an sbt project in IntelliJ;
 1. Select `Build`>`Build Project`;
